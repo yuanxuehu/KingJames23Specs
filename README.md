@@ -32,7 +32,9 @@ cd 到Example文件
 Podfile文件, 可以看到本地引用路径pod 'KJKit', :path => '../'
 
 7. github创建对应的远程组件库ZYKit
+```
 https://github.com/yuanxuehu/KJKit.git
+```
 
 8. 配置本地ZYKit组件库的podspec文件
 ```
