@@ -17,7 +17,7 @@ cd到指定的目录，这个ComponentPrivatePods是自己创建的一个文件�
 本人选择cd /Users/yuanxuehu/目录下创建
 
 4. 创建一个基础组件库
-``
+```
 cd 到ComponentPrivatePods基础库文件夹, 比如常见的XXKit组件库
 cd /Users/yuanxuehu/ComponentPrivatePods
 pod lib create KJKit
@@ -64,6 +64,7 @@ TODO: Add long description of the pod here.
   # s.dependency 'AFNetworking', '~> 2.3'
 end
 ```
+
 9. 将本地组件库KJKit提交到远程github的KJKit中
 ```
 cd /Users/yuanxuehu/ComponentPrivatePods/KJKit
